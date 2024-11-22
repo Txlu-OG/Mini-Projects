@@ -8,10 +8,15 @@ This repository contains an end-to-end data analysis project on Bicycle Sales. T
   [Project Overview](#Project-Overview)
   
   [Key Features](#Key-Features)
+  
   [Tools and Technologies](#Tools-and-Technologies)
+  
   [Project Files](#Project-Files)
+  
   [Insights and Findings](#Insights-and-Findings)
+  
   [Future Enhancements](#Future-enhancements)
+  
   [Contributing](#Contributing)
   
 ## Project Overview
