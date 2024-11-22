@@ -1,6 +1,17 @@
 # Bicycle Sales Analysis
+------------------------------
 This repository contains an end-to-end data analysis project on Bicycle Sales. The goal of the project is to provide insights into sales trends, customer behavior and performance metrics to help drive business decisions.
 
+## Table of COntent
+  [Data Sources](#data-sources)
+  [Project Overview](#Project-Overview)
+  [Key Features](#Key-Features)
+  [Tools and Technologies](#Tools-and-Technologies)
+  [Project Files](#Project-Files)
+  [Insights and Findings](#Insights-and-Findings)
+  [Future Enhancements](#Future-enhancements)
+  [Contributing](#Contributing)
+  
 ## Project Overview
 The Bicycle Sales Analysis project includes:
 
@@ -24,6 +35,10 @@ The project leverages:
 3. File Formats:
     CSV: Raw data
     PBIX: Power BI dashboards
+
+### Data Sources
+Bike Sales [view original location here](https://www.kaggle.com)
+
 ## Project Files
 1. Bike Sales.csv: Raw sales data used for the analysis.
 2. Bicycle_sales.pbix: Power BI file containing interactive dashboards and insights.
@@ -42,47 +57,3 @@ Seasonal trends in bicycle sales.
 
 ## Contributing
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
-
-
-
-
-
-# Sales Analysis
----
-## Table of COntent
-  [Data Sources](#data-sources)
-## Bicycle Sales 
-### Project Overview
-
-
-💻
-
-
-|Heading1|Heading2|
-|--------|--------|
-|Content|Content2|
-|python|sql|
-
-
-
-
-
-
-
-
-
-
-
-
-### Data Sources
-NCDC Data [download here](https://)
-### Tools
-Power BI
-Excel
-```python
-import numpy as np
-```
-`column_1`
-**bold**
-*italic*
